@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight in the church at Thaxted in Essex, between the sequestrators, and the minister. And the mayor being present, the men and women in this fight fell all together by the eares, on the Lords Day. Concerning which, divers of the chiefe actors were brought before the House of Lords in Parliament assembled, this present Friday, Septemb. 24. 1647. With the manner of their tryall, and the severall charges brought in against them at the Lords barre.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85598</idno>
+            <idno type="STC">Wing G1700</idno>
+            <idno type="STC">Thomason E408_22</idno>
+            <idno type="STC">ESTC R204685</idno>
+            <idno type="EEBO-CITATION">99864150</idno>
+            <idno type="PROQUEST">99864150</idno>
+            <idno type="VID">116372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116372)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E408[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight in the church at Thaxted in Essex, between the sequestrators, and the minister. And the mayor being present, the men and women in this fight fell all together by the eares, on the Lords Day. Concerning which, divers of the chiefe actors were brought before the House of Lords in Parliament assembled, this present Friday, Septemb. 24. 1647. With the manner of their tryall, and the severall charges brought in against them at the Lords barre.</title>
+                  <author>Turner, Richard, fl. 1647.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Becke in Aldersgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Domini, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Witnesses, Richard Turner [and 5 others].</note>
+                  <note>The minister = Samuel Hall. Cf. Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "7ber: [i.e. September] 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hall, Samuel, fl. 1647.</term>
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+               <term>Church controversies --  England --  Thaxted --  Early works to 1800.</term>
+               <term>Thaxted (England) --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116372:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT IN THE CHURCH AT <hi>THAXTED</hi> in <hi>ESSEX,</hi> between the Sequeſtrators, and the Miniſter.</p>
+            <p>AND The Mayor being preſent, the men and women in this Fight fell all together by the eares, on the Lords Day.</p>
+            <p>Concerning which, divers of the Chiefe Actors were brought before the houſe of <hi>Lords</hi> in Parliament aſſembled, this preſent <hi>Friday, Septemb.</hi> 24. 1647.</p>
+            <p>WITH The manner of their Tryall, and the ſeve<g ref="char:EOLhyphen"/>rall Charges brought in againſt them at the LORDS BARRE.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Henry Becke</hi> in <hi>Alderſgate<g ref="char:EOLhyphen"/>ſtreet, Anno Domini,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116372:2"/>
+            <pb n="1" facs="tcp:116372:2"/>
+            <head>A Great fight in the Church at <hi>Thaxted</hi> in <hi>Eſſex,</hi> between the Sequeſtrators and the MINISTER.</head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 24 Septem. 1647.</date>
+               </dateline>
+            </opener>
+            <head>From the well-affected Inhabitants.</head>
+            <p>THe Committee for plundered Miniſters ſeque<g ref="char:EOLhyphen"/>ſtred one M. <hi>Leader</hi> Vicar of <hi>Thanted,</hi> and ſetled one M. <hi>Male,</hi> a godly learned Miniſter. M. <hi>Leader</hi> de<g ref="char:EOLhyphen"/>ceaſing about a year after, the Lady <hi>Maynard</hi> (being Patroneſſe of the ſaid living) refuſed to preſent Maſter <hi>Male</hi> but preſents one M. <hi>Croxon,</hi> a man for whoring, ſwearing, curſing and drunkenneſſe, the whole Coun<g ref="char:EOLhyphen"/>ty cannot parallell, as was proved againſt him.</p>
+            <p>The well affected pariſhioners, perceiving what a judgement they lay under, to ſit under the Miniſtery of ſuch a ſoule-ſtarving Paſtor, began a new proſecution, and exhibited ſeverall Articles againſt the ſaid M. <hi>Croxon,</hi> before the Committee for plundered Mini<g ref="char:EOLhyphen"/>ſters, and proſecuted the ſame, untill the ſaid Com<g ref="char:EOLhyphen"/>mittee hearing the cauſe, ſequeſtred the ſaid living from M. <hi>Croxon.</hi>
+            </p>
+            <p>The Lady <hi>Maynard</hi> by a Gentleman ſuggeſted to the ſaid Committee, that M. <hi>Croxon</hi> had made a re<g ref="char:EOLhyphen"/>ſignation to the Lady of the ſaid Living, but becauſe
+<pb n="2" facs="tcp:116372:3"/>no reſignation did appear to the Committee, it was or<g ref="char:EOLhyphen"/>dered, that the ſaid Lady ſhould have only leave and two moneths time to nominate ſome godly Minſter to the Committee for the ſaid Living, to take it upon the Sequeſtration.</p>
+            <p>The wel-affected pariſhioners petitioned the Com<g ref="char:EOLhyphen"/>mittee to vacate the ſaid Order for theſe reaſons, <hi>viz.</hi>
+            </p>
+            <p>I. Becauſe the Lady had preſented two unworthy Miniſters before, the proſecuting of which Miniſters had coſt a few well affected perſons in the pariſh at leaſt a hundred pounds.</p>
+            <p>II. Becauſe that Order that gave the Lady power, was gotten upon pretence of a reſignation, whereas there could be none legall.</p>
+            <p>
+               <hi>Firſt, becauſe when Articles are depending, no man can reſigne.</hi>
+            </p>
+            <p>
+               <hi>Secondly, becauſe if the reſignation had been be<g ref="char:EOLhyphen"/>fore Articles, the living muſt needs be relupſt, be<g ref="char:EOLhyphen"/>cauſe it was more then ſix moneths before the ſaid Lady went about to preſent this Mr.</hi> Hall, <hi>but it is proved by an Order that the ſaid reſignation was a little before the Sequeſtration, therefore by the Or<g ref="char:EOLhyphen"/>der of the Committee void, as wee can make cleerly to appeare.</hi>
+            </p>
+            <p>Yet not withſtanding the Committee gave the Lady liberty to commend ſome godly Miniſter, ſhee com<g ref="char:EOLhyphen"/>mended M. <hi>Hall,</hi> who was referred to the Aſſembly of
+<pb n="3" facs="tcp:116372:3"/>Divines, who found him unfit and made return of it to the Committee.</p>
+            <p>M. <hi>Hall</hi> was ſent a ſecond time to the Aſſembly, who returned him ſtill unfit, and they were more unſa<g ref="char:EOLhyphen"/>tisfied then before.</p>
+            <p>Mr. <hi>Hall</hi> was ſent a third time, and returned unfit, whereupon he was diſcharged from intermedling with <hi>Thaxted</hi> any more by the ſaid Committee, They having power to place none but ſuch as the Aſſembly approoves of.</p>
+            <p>Since which time he hath addreſſed himſelfo to the right Honourable the Houſe of Lords, who did or<g ref="char:EOLhyphen"/>der the Aſſembly to examine him, who have return<g ref="char:EOLhyphen"/>ed anſwer, they cannot approve of him.</p>
+            <p>The Lords were pleaſed to order that the Aſſembly ſhould bring in their reaſons, why they did not ap<g ref="char:EOLhyphen"/>prove of him.</p>
+            <p>The Aſſembly did produce their reaſons which gave the Lords ſuch ſatisfaction that the cauſe was laied a ſide for the preſent, and the ſaid <hi>Hall</hi> in the abſence of the Speakers got an Order for Inſtitution and Induction which is now made void by the Ordi<g ref="char:EOLhyphen"/>nance.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die veneris Septem. 24. 1647.</date>
+                  </dateline>
+               </opener>
+               <head>From the Sequeſtrators.</head>
+               <p>DIvers well affected preſented Articles (to the Committee for plundred Miniſters) againſt <hi>Edward Croxon</hi> Vicar of <hi>Thaxted.</hi>
+               </p>
+               <p>
+                  <hi>Croxon</hi> was ſequeſtred by the Committee for plundered Miniſters, Sequeſtrators appointed.</p>
+               <p>The Lady <hi>Maynard</hi> Patroneſſe of the ſaid Vicarage ſuggeſted a reſignation made to her by <hi>Croxon,</hi> and
+<pb n="4" facs="tcp:116372:4"/>ſhe deſired to preſent her Clerke, but becauſe ſhee produced no reſignation. It was ordered that ſhee ſhould have liberty and two moneths time to com<g ref="char:EOLhyphen"/>mend ſome godly Miniſter, to bee ſettled in the ſaid Sequeſtration.</p>
+               <p>The Lady preſent Mr. <hi>Nall</hi> to the Committee to be ſettled in the Sequeſtration, <hi>Hall</hi> referred to the Aſ<g ref="char:EOLhyphen"/>ſembly, returned unfit ſent away the ſecond time, a third, a fourth, a fifth time and returned unfit, the Committee diſcharged <hi>Hall,</hi> continued the Sequeſ<g ref="char:EOLhyphen"/>trators.</p>
+               <p>Mr. <hi>Hall</hi> finding hee could not get into the ſaid living by the Committee, Addreſſes himſelfe to the Houſe of Lords, the Lords order the Aſſembly to examine Mr. <hi>Hall</hi> in reference to the ſaid place, they returne him unfit, the Lords order the Aſſembly to ſhew their reaſons: they produced reaſons, the Lords ref<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rre the ſame to a Committee, which was after<g ref="char:EOLhyphen"/>ward ſaid a ſide, heard no more of <hi>Hall</hi> for the ſpace of two moneths.</p>
+               <p>(In the abſence of the Speakers) Mr. <hi>Hall</hi> got an order from the Lords (by the procurement of the Lord <hi>Maynard</hi> patron, the Lady being deceaſed, who then ſate and acted, for which he now is in cuſtody) for inſtitution and induction.</p>
+               <p>
+                  <hi>Hall</hi> came to the Church, accompanied with the Mayor and divers others (of the diſ-affected party) The Sequeſtrators demanded his authority, he refuſed to ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w any Authority, and ſaid they ſhould not queſtion it, went and preached the forenoone, in the afternoone the Sequeſtrators went and ſtood at the door of the Deſke to force him to ſhew Authority, or prevent him from preaching.</p>
+               <p>Mr. <hi>Hall</hi> name in the afternoone accompanied with
+<pb n="5" facs="tcp:116372:4"/>the aboveſaid Mayor, the Sequeſtrators demanded his authority, he refuſed to ſhew any, the Sequeſtra<g ref="char:EOLhyphen"/>tors told him they had an Order that he ſhould not Officiate, and if he could ſhew a better they would deſiſt, which he refuſed to doe.</p>
+               <p>Then one <hi>Chriſtopher Tanner</hi> (Church-Warden) and <hi>Edward Muntford</hi> told the Sequeſtrators that if the Sequeſtrators would not come down they ſhould be pulled downe, and ſaid Mr. <hi>Hall</hi> ſhould preach too with other daring words.</p>
+               <p>Then came the Mayor out of his ſeare and reproov<g ref="char:EOLhyphen"/>ed the Sequeſtrators, and ſaid he wondered the Se<g ref="char:EOLhyphen"/>queſtrators would make ſuch a diſturbance, which Animated divers diſ-affected men and women, who fell upon the Sequeſtrators, beat them 'tore the haire from their heads, their bands from their necks; en<g ref="char:EOLhyphen"/>dangered the taking away the it lives. The Mayor being preſent and never reprooved the ſame.</p>
+               <p>
+                  <hi>Anne</hi> the Wife of <hi>Thomas Meade, Elizabeth</hi> the Daughter of the ſaid <hi>Thomas, Meade,</hi> the Wife of <hi>Laurence Porter,</hi> the Wife of <hi>Nathauiel Weſtley,</hi> the Wife of <hi>Samuel Salmane,</hi> theſe. Women fell violent<g ref="char:EOLhyphen"/>ly upon the ſaid Sequeſtratours, beat them ſore, tore the haire from ſome of their heads, the Bands from their neckes, their Hattes and Cloakes off, then came <hi>Henry Jobb, Thomas Meade</hi> junior, <hi>Edward Meade</hi> ju<g ref="char:EOLhyphen"/>nior, <hi>John Moore,</hi> (who ſtruck Captain <hi>Turner</hi> one of the Sequeſtratours) <hi>William Caton, Lewis Caton, Na<g ref="char:EOLhyphen"/>thaniel Smith,</hi> alias <hi>Baby, John Grey,</hi> and <hi>John Baker,</hi> who animated and abetted the ſaid Women, the Se<g ref="char:EOLhyphen"/>queſtratours being forced to haſte as faſt as they could out of the Church, being in danger of having their lives taken from them by the Perſons above mentioned, the Major of the Town being preſent ne<g ref="char:EOLhyphen"/>ver
+<pb n="6" facs="tcp:116372:5"/>charged any one of them to keep the Peace, but unimated them, and ſaid, when others preſſed toward me Sequeſtratours, <hi>Let them alone, and let the Women decide the Caſe.</hi>
+               </p>
+               <p>The Sequeſtratours having an Ordinance of Par<g ref="char:EOLhyphen"/>liament for the nulling all Orders, Ordinances, &amp;c. done in the abſence of the Speakers, Mr. Major, Mr. <hi>Hall,</hi> and <hi>Henry Jebb</hi> comming to Church, the Sequeſtratours ſhewed them the ſame to prohibit <hi>Hall</hi> from preaching, he having his Authority granted in the abſence of the Speakers) and wiſhed Mr. Major and Mr. <hi>Hall</hi> to take notice of it, the Major read the ſame in preſence of Mr. <hi>Hall,</hi> and ſaid, <hi>What doth this concerne</hi> Mr. Hall?</p>
+               <p>Mr. <hi>Hall</hi> in a ſlighting manner ſaid, <hi>This did nothing concerne him,</hi> and went away into the Church, and officiated the ſame day, forenoon and afternoon, without taking notice of the ſaid Ordinance.</p>
+               <p>
+                  <hi>Henry Jebb</hi> being preſent at the reading of the ſaid Ordinances in a ſlighting manner ſaid, <hi>What doth this concerne Mr.</hi> Hall? and told the Sequeſtratours, <hi>They were alwayes troubling them with ſuch frivolous things.</hi>
+               </p>
+               <closer>
+                  <signed>Witneſſes,
+<list>
+                        <item>
+                           <hi>Richard Turner,</hi>
+                        </item>
+                        <item>Jo. <hi>Humphrey,</hi>
+                        </item>
+                        <item>Jo, <hi>Brown,</hi>
+                        </item>
+                        <item>
+                           <hi>Andrew Halles,</hi>
+                        </item>
+                        <item>Jo. <hi>Hewood,</hi>
+                        </item>
+                        <item>
+                           <hi>Roſe Turner,</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116372:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
